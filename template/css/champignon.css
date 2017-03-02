@@ -1,0 +1,12 @@
+/*****************************
+ All rights reserved.
+ AllFont.net (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Champignon';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Champignon'), local('Champignon-Regular'),
+        url(http://allfont.net/cache/fonts/champignon_61cf7607ccce67439c534a52a3932f8e.woff) format('woff'),
+        url(http://allfont.net/cache/fonts/champignon_61cf7607ccce67439c534a52a3932f8e.ttf) format('truetype');
+}

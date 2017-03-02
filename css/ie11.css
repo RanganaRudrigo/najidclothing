@@ -1,0 +1,27 @@
+/********************************************************
+			IE11
+********************************************************/
+.sp-slider .slider .vpo-wrap .vp .item .price-percent-reduction {
+  white-space: nowrap; }
+
+.tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span:before {
+  bottom: -14px; }
+
+.header-top-right .header_user_info ul.links li {
+  white-space: nowrap; }
+  .header-top-right .header_user_info ul.links li a {
+    white-space: nowrap; }
+
+.is_rtl .tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span {
+  padding-bottom: 7px; }
+  .is_rtl .tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span:before {
+    bottom: -14px; }
+.is_rtl .header-top-right .header_user_info ul li a i {
+  margin-right: 15px; }
+.is_rtl .login-regis .yt-login-regis {
+  direction: ltr; }
+.is_rtl .login-regis .yt-login-regis:before {
+  border-right: 10px solid transparent !important;
+  border-left: 0 solid transparent !important; }
+.is_rtl #languages-block-top div.current {
+  white-space: nowrap; }

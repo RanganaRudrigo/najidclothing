@@ -1,0 +1,57 @@
+/********************************************************
+			IE9
+********************************************************/
+.spcat-items .content_price span.product-price {
+  text-align: left;
+  width: 100%; }
+
+.header-top-right .header_user_info ul.links li {
+  white-space: nowrap; }
+  .header-top-right .header_user_info ul.links li a {
+    white-space: nowrap; }
+
+#homepage-slider .bx-wrapper .bx-controls-direction a.bx-next {
+  background: url("../img/icon/arrow-slider.png") no-repeat -29px 14px;
+  background-color: #777777; }
+
+.tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span:before {
+  bottom: -14px !important; }
+
+.is_rtl .tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span {
+  padding-bottom: 7px; }
+  .is_rtl .tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span:before {
+    bottom: -14px; }
+.is_rtl .header-top-right .header_user_info ul.links ul li a:after {
+  display: none; }
+.is_rtl .header-top-right .header_user_info ul li a i {
+  margin-right: 15px; }
+.is_rtl .login-regis .yt-login-regis {
+  direction: ltr; }
+.is_rtl .login-regis .yt-login-regis:before {
+  border-right: 10px solid transparent !important;
+  border-left: 0 solid transparent !important; }
+.is_rtl #languages-block-top div.current, .is_rtl #currencies-block-top div.current {
+  direction: ltr; }
+  .is_rtl #languages-block-top div.current img, .is_rtl #currencies-block-top div.current img {
+    float: right;
+    margin-top: 8px; }
+  .is_rtl #languages-block-top div.current:after, .is_rtl #currencies-block-top div.current:after {
+    line-height: 26px; }
+.is_rtl #languages-block-top {
+  border-radius: 18px 0 0 18px; }
+  .is_rtl #languages-block-top div.current img {
+    margin: 4px 2px 0 8px !important; }
+.is_rtl #currencies-block-top {
+  border-radius: 0 18px 18px 0; }
+.is_rtl .header_user_info ul.links li.compare {
+  text-align: left; }
+  .is_rtl .header_user_info ul.links li.compare a {
+    background-position: 65px 5px !important; }
+.is_rtl .sf-menu > li.sf-haveshild:first-child > a {
+  border-right: 0; }
+.is_rtl .spcat-items .content_price span.product-price {
+  text-align: right !important;
+  float: right;
+  width: 100%; }
+.is_rtl .products_block .product_images li {
+  direction: ltr !important; }

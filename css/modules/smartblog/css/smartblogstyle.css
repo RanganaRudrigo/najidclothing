@@ -1,0 +1,116 @@
+h3.title-category {
+  margin-top: 0;
+  margin-bottom: 25px; }
+  h3.title-category:after {
+    margin-top: 7px; }
+
+#smartblogcat {
+  border: none;
+  margin: 0px; }
+  #smartblogcat .sdsarticleCat {
+    margin-bottom: 30px; }
+    #smartblogcat .sdsarticleCat .articleImg {
+      float: left;
+      margin-right: 20px;
+      -webkit-transition: all 0.4s;
+      transition: all 0.4s;
+      overflow: hidden; }
+    #smartblogcat .sdsarticleCat .sdsarticleHeader {
+      margin-bottom: 6px;
+      margin-top: -6px; }
+    #smartblogcat .sdsarticleCat h2.sdstitle_block {
+      font-size: 18px;
+      margin: 0px 0px 5px; }
+    #smartblogcat .sdsarticleCat .sdsarticle-des {
+      margin-bottom: 15px; }
+      #smartblogcat .sdsarticleCat .sdsarticle-des span {
+        line-height: 1.5em; }
+    #smartblogcat .sdsarticleCat .blog-info {
+      color: #999;
+      border-top: 1px solid #dcdcdc;
+      padding-top: 16px;
+      float: left; }
+      #smartblogcat .sdsarticleCat .blog-info .comment {
+        border-right: solid 1px #999;
+        padding-right: 5px; }
+        #smartblogcat .sdsarticleCat .blog-info .comment a {
+          color: #999; }
+    #smartblogcat .sdsarticleCat:hover .articleImg img {
+      opacity: 0.7; }
+  #smartblogcat .articleContent {
+    display: block;
+    overflow: hidden; }
+
+#sdsblogArticle .page-item-title h1 {
+  font-size: 20px;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: 0px; }
+#sdsblogArticle .articleContent {
+  text-align: center;
+  margin: 30px 0px; }
+
+.smartblogcomments .form-control {
+  float: left; }
+  .smartblogcomments .form-control.inputContent {
+    padding: 6px 6px;
+    font-size: 12px; }
+.smartblogcomments .group-select .form-list li {
+  padding-left: 0; }
+
+#submitComment {
+  border-radius: 0px;
+  color: #fff;
+  background: #333;
+  transition: 0.3s all ease 0s;
+  min-width: 100px;
+  border: none;
+  padding: 8px 20px; }
+
+.commentList li {
+  position: relative;
+  padding: 15px 0px 15px 80px; }
+  .commentList li .avatar {
+    position: absolute;
+    left: 0px;
+    top: 18px;
+    border: solid 1px #dfdfdf;
+    border-radius: 2px;
+    background: #fff;
+    padding: 5px; }
+  .commentList li .name {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px; }
+  .commentList li .created {
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 5px;
+    color: #999; }
+  .commentList li .reply a {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: underline; }
+
+.pagination > li > a, .pagination > li > span {
+  color: #999;
+  transition: 0.3s all ease 0s;
+  border-radius: 0px !important; }
+
+.pagination > li {
+  border-radius: 0px;
+  display: inline-block; }
+
+.post-page {
+  margin-top: 50px;
+  text-align: center; }
+  .post-page .results {
+    margin: 5px 0;
+    color: #999; }
+
+.is_rtl .commentList li {
+  padding: 15px 80px 15px 0; }
+  .is_rtl .commentList li .avatar {
+    right: 0;
+    left: inherit; }

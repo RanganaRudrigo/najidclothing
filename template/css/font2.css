@@ -1,0 +1,37 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+h1, h2, h3, h4, h5 {font-family: Roboto Condensed !important;}
+.sf-menu > li > a,
+.header-top-right .shopping_cart span.title{font-family: Roboto Condensed !important;}
+.item-title,
+.login-regis a{font-family: Roboto Condensed !important;}
+.price,
+.old-price,
+.price-percent-reduction,
+ul.product_list li .button-container .cart_button{font-family: Roboto Condensed !important;}
+button.detail {font-family: Roboto Condensed !important;}
+.shopnow {font-family: Roboto Condensed !important;}
+.moreinfo_block .tab-info{font-family: Roboto Condensed !important;}
+.layered_filter{font-family: Roboto Condensed !important;}
+.commentList .name {font-family: Roboto Condensed !important;}
+#submitComment {font-family: Roboto Condensed !important;}
+#block_top_menu .cat-title {font-family: Roboto Condensed !important;}
+#header_links li a,
+.social-fixed .item-social .table-item .text-social a,
+#categories_block_left .block_content ul.tree li a,
+.our_price_display #our_price_display{font-family: Roboto Condensed !important;}
+.title_block ,
+.deal-listing .sp-deal .item .num-time,
+.newsletter_home .block_content .subcribe .button{font-family: Roboto Condensed !important;}
+#header .cart_block a ,
+btn.btn-default ,
+btn.btn-default span,
+.tab-slider .spcat-item .button-container .btn-default,
+.sp-sp-cat .spcat-items .spcat-loadmore .spcat-loadmore-btn{font-family: Roboto Condensed !important;}
+#header .cart_block .price,
+.tab-slider .sp-sp-cat .spcat-tabs-container .spcat-tabs li.spcat-tab span,
+.homeslider-description,
+.lastestnews .sdsblog-box-content .sds_blog_post .sds_post_title a,
+.shopping_cart > a:first-child{font-family: Roboto Condensed !important;}
+
+
